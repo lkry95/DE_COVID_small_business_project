@@ -16,7 +16,7 @@ This project is to explore the correlations between Delaware State COVID restric
 * Python
 * AWS Lightsail MySQL database
 * Pandas
-* Kubernetes (minikube
+* Kubernetes (minikube)
 * Folium
 * Jupyter Notebook
 ### Data from:
